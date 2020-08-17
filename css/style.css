@@ -1,0 +1,84 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family:Helvetica;
+    background: #f0f2f5;
+    display: grid;
+}
+.main #text {
+    margin-top: 218px;
+    margin-left: 189px;
+    margin-bottom: 19px;
+    font-size: 40px;
+    color:blue;
+
+}
+.main #frase {
+    margin-left: 189px;
+    max-width: 497px;
+    font-size: 25px;
+    color: #1c1e21
+}
+.main .formu-login {
+    border-radius: 8px;
+    width: 400px;
+    height: 343px;
+    margin-top: -250px;
+    margin-left: 757px;
+    background: #ffffff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+    box-sizing: border-box;
+}
+#email input {
+    font-size: 16px;
+    margin-top: 14px;
+    margin-bottom: 12px;
+    margin-left: 12px;
+    width: 359px;
+    height: 50px;
+}
+#senha input {
+    font-size: 16px;
+    margin-bottom: 12px;
+    margin-left: 12px;
+    width: 359px;
+    height: 50px;
+}
+#botao button {
+    border-radius: 8px;
+    background:#1877f2;
+    color: #ffffff;
+    font-size: 20px;
+    margin-bottom: 12px;
+    margin-left: 12px;
+    width: 376px;
+    height: 50px;
+
+}
+a {
+    font-size: 14px;
+    text-decoration-line: none;
+    padding-left: 35%;
+}
+#botao-criar button {
+    font-size: 18px;
+    color: #ffffff;
+    border-radius: 8px;
+    margin-left: 125px;
+    margin-top: 54px;
+    width: 160px;
+    height: 42px;
+    background: #36a420;;
+}
+
+#frase2 {
+    font-size: 13px;
+    color:inherit;
+    margin-top: 33px;
+    margin-left: 438px;
+}
+#frase2 a:hover {
+    text-decoration: underline;
+}
