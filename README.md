@@ -1,2 +1,10 @@
-# Facebook-Screen-Clone
-This was one of the challenges I did for myself, although it was simple but it was something that made me more enthusiastic about the Front-end, I have a lot to study mainly about CSS, ranging from FlexBox, Grids, spacing and among others but with practice comes to perfection!
+<h1 align="center">Facebook-Screen-Clone</h1>
+<p align="justify"> 
+  Esse foi um dos desafios que fiz para mim mesmo, embora fosse simples mas foi algo que me deixou mais entusiasmado com o Front-end, tenho muito o que estudar       principalmente sobre CSS, que vão desde FlexBox, Grids, espaçamentos e entre outros mas com a prática chega à perfeição!
+</p>
+
+### Tecnologias Utilizadas:
+- HTML5<br>
+- CSS3
+
+### Resultado da tela:
